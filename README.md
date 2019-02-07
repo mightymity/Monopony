@@ -14,7 +14,7 @@ is owned by the other player, they will be charged<br>
 - Java <br>
 - MySql <br>
 
-To start run battleship.c<br><br>
+To startม run main.java<br><br>
 
 
 <b><header>Screenshots</header></b><br><br>
