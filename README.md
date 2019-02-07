@@ -25,8 +25,8 @@ To start run battleship.c<br><br>
   <br>Register page<br><br>
   <img src="https://github.com/treesakul/Monopony/blob/master/Pic/board.jpg" width="430" title="hover text">
   <br>Board<br><br>
-  <img src="https://github.com/treesakul/Monopony/blob/master/Pic/disneyworld.png" width="430" alt="accessibility text">
-  <br>Deed<br><br>
+  <img src="https://github.com/treesakul/Monopony/blob/master/Pic/disneyworld.png" width="200" alt="accessibility text">
+  <br>Deed
 </p>
 
 <br><br>
